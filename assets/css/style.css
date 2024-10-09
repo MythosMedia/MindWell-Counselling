@@ -299,10 +299,10 @@ mark {
 }
 
 .bg_primary_light {
-  background-color: var(--bs-primary-bg-subtle);
+  background-color: #FEF3E7;
 }
 .bg_primary_light[class*=shape] {
-  background-color: #C1E3DE;
+  background-color: #FEF3E7;
 }
 
 .bg_secondary_light {
@@ -712,7 +712,7 @@ mark {
 .office_hour_list ul > li:not(:last-child) {
   margin-bottom: 12px;
   padding-bottom: 13px;
-  border-bottom: 1px solid #C1E3DE;
+  border-bottom: 1px solid #E3BB9A;
 }
 .office_hour_list ul > li span:last-child {
   font-weight: 700;
@@ -908,8 +908,8 @@ button[class*=-dark]:hover {
   /* background-color: var(--bs-primary); */
   background-color: #E3BB9A;
   border-radius: var(--bs-border-radius-pill);
-  -webkit-box-shadow: 0 8px 20px 0 rgba(43, 171, 160, 0.3);
-          box-shadow: 0 8px 20px 0 rgba(43, 171, 160, 0.3);
+  /* -webkit-box-shadow: 0 8px 20px 0 rgba(43, 171, 160, 0.3); */
+          /* box-shadow: 0 8px 20px 0 rgba(43, 171, 160, 0.3); */
 }
 .btn-link:hover {
   color: var(--bs-primary);
