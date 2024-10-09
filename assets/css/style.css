@@ -1052,6 +1052,7 @@ button[class*=-dark]:hover {
 .section_heading .section_heading_description {
   font-size: 20px;
   line-height: 32px;
+  color: #181F1C;
 }
 .section_heading.text-center .section_heading_description {
   margin: auto;
@@ -1748,6 +1749,7 @@ button[class*=-dark]:hover {
 }
 .accordion .accordion-item .accordion-body {
   padding: 0 0 22px;
+  color: #181F1C;
 }
 
 /* 2.16 - Accordion - End
@@ -2167,6 +2169,7 @@ button[class*=-dark]:hover {
 }
 .service_item p {
   margin-bottom: 30px;
+  color: #181F1C;
 }
 
 /* 4.02 - Service - End
@@ -2780,6 +2783,7 @@ button[class*=-dark]:hover {
 ================================================== */
 .about_content .section_heading .section_heading_description {
   max-width: 540px;
+  color: #181F1C;
 }
 
 /* 5.01 About Page - End
