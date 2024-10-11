@@ -2773,14 +2773,14 @@ button[class*=-dark]:hover {
   margin-bottom: 30px;
 }
 .consultation_form .shape_leaf_1 {
-  top: -90px;
-  right: -110px;
-  max-width: 380px;
+  top: 0px;
+  right: 0px;
+  max-width: 250px;
 }
 .consultation_form .shape_leaf_2 {
-  left: -130px;
-  bottom: -94px;
-  max-width: 390px;
+  left: 0;
+  bottom: 0;
+  max-width: 250px;
 }
 
 /* 4.12 - Consultation Form - End
