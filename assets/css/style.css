@@ -444,6 +444,11 @@ mark {
   padding-bottom: 160px;
   background-color: #FEF3E7;
 }
+.section_space_lg_about {
+  padding-top: 150px;
+  padding-bottom: 160px;
+  /* background-color: #CCDED3; */
+}
 .section_space_lgs {
   padding-top: 150px;
   padding-bottom: 160px;
