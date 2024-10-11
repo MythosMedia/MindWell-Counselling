@@ -1977,7 +1977,7 @@ button[class*=-dark]:hover {
 .page_banner {
   overflow: hidden;
   padding: 55px 0 62px;
-  background-color: var(--bs-primary-bg-subtle);
+  /* background-color: var(--bs-primary-bg-subtle); */
 }
 .page_banner .decoration_item {
   top: 50%;
