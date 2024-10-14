@@ -1652,7 +1652,7 @@ button[class*=-dark]:hover {
 }
 
 .counter_item .counter_value {
-  font-size: 70px;
+  font-size: 56px;
   font-weight: 800;
   line-height: 50px;
   -webkit-box-align: center;
@@ -1678,7 +1678,7 @@ button[class*=-dark]:hover {
   padding: 40px;
 }
 .hero_section_counter .counter_value {
-  font-size: 42px;
+  font-size: 37px;
   font-weight: 800;
   line-height: 30px;
 }
