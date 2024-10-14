@@ -62,11 +62,11 @@
 */
 /* Table Of Content - end
 ================================================== */
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;1,500&display=swap');
 :root {
-  --bs-body-font-family: "Open Sans", sans-serif;
-  --bs-font-body: "Open Sans", sans-serif;
-  --bs-font-heading: "Open Sans", sans-serif;
+  --bs-body-font-family: "Nunito", sans-serif;
+  --bs-font-body: "Nunito", sans-serif;
+  --bs-font-heading: "Nunito", sans-serif;
   --bs-body-font-weight: 400;
   --bs-body-font-size: 18px;
   --bs-body-line-height: 28px;
@@ -102,6 +102,13 @@
   --bs-focus-ring-width: 20px;
   --bs-focus-ring-opacity: 0.25;
   --bs-focus-ring-color: rgba(38, 171, 163, 0.25);
+}
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 
 /* 1.1 - Template Fonts - Start
