@@ -542,7 +542,8 @@ mark {
   color: var(--bs-body-color);
 }
 .info_list a:hover {
-  color: var(--bs-primary);
+  color: white;
+  /* color: var(--bs-primary); */
 }
 
 .post_category {
