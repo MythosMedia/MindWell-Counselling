@@ -2157,6 +2157,7 @@ button[class*=-dark]:hover {
 /* 4.02 - Service - Start
 ================================================== */
 .service_item {
+  height: 450px;
   padding: 60px 60px 53px;
   -webkit-box-shadow: var(--bs-box-shadow);
           box-shadow: var(--bs-box-shadow);
