@@ -487,6 +487,18 @@ mark {
   gap: 7px;
 }
 
+.contact-item-index {
+  color: #556a5f;
+}
+
+.contact-item-index i{
+  font-size: 48px;
+}
+
+.contact-item-index h5 {
+  color: #556a5f;
+}
+
 /* 2.04 - Template Gapping or Spacing - End
 ================================================== */
 /* 2.05 - Order & Unorder List - Start
