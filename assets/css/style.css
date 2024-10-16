@@ -132,6 +132,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+a{
+  color: #64776d !important;
+}
+
 .page_wrapper {
   overflow: hidden;
   position: relative;
