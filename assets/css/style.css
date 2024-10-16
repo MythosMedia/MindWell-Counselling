@@ -451,7 +451,7 @@ mark {
 /* 2.04 - Template Gapping or Spacing - Start
 ================================================== */
 .section_space_lg {
-  padding-top: 150px;
+  padding-top: 50px;
   padding-bottom: 160px;
   background-color: #FEF3E7;
 }
@@ -461,7 +461,7 @@ mark {
   /* background-color: #CCDED3; */
 }
 .section_space_lgs {
-  padding-top: 150px;
+  padding-top: 50px;
   padding-bottom: 30px;
   background-color: #FCFCFC;
 }
@@ -479,6 +479,12 @@ mark {
 .section_space_sm {
   padding-top: 80px;
   padding-bottom: 80px;
+}
+
+.service-details-spaces{
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
 }
 
 /* 2.04 - Template Gapping or Spacing - End
