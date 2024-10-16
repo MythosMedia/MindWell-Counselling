@@ -132,7 +132,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-a{
+.item_info a{
   color: #64776d !important;
 }
 
