@@ -457,7 +457,7 @@ mark {
 }
 .section_space_lg_about {
   padding-top: 150px;
-  padding-bottom: 160px;
+  padding-bottom: 120px;
   /* background-color: #CCDED3; */
 }
 .section_space_lgs {
@@ -498,6 +498,59 @@ mark {
 .contact-item-index h5 {
   color: #556a5f;
 }
+
+/*process start*/
+
+.process-card{
+  width:35%;
+}
+
+@media (max-width: 768px) {
+  .process-card{
+    width:100%;
+  }
+}
+
+@media (max-width: 992px) {
+  .process-card{
+    width:55%;
+  }
+}
+
+.process-work h2{
+  font-size:42px;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-body h5 {
+  font-weight: bold;
+  margin-top: 15px;
+  color: #556A5F;
+}
+
+.process-card i {
+  color: #556A5F;
+}
+
+.process-card p {
+  font-size:18px;
+}
+
+.process-work h2 {
+  padding-bottom: 50px;
+}
+
+
+/*process end*/
 
 /* 2.04 - Template Gapping or Spacing - End
 ================================================== */
