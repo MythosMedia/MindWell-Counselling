@@ -605,6 +605,7 @@ mark {
   color: var(--bs-secondary);
 }
 .info_list .info_text {
+  font-size: 15px;
   display: table;
 }
 .info_list a {
@@ -3196,6 +3197,7 @@ blockquote cite {
 /* 5.03 - Contact Page - Start
 ================================================== */
 .contact_info_box {
+  height: 300px;
   padding: 40px;
   overflow: hidden;
   word-break: break-all;
