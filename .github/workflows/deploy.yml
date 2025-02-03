@@ -1,4 +1,4 @@
-name: 🚀 Deploy website on FTP
+name: 🚀 Deploy website on mindwell
 on:
   push:
     branches:
