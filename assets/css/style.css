@@ -4107,3 +4107,7 @@ Responsive For Mobile & Tablet Devices
 }
 /* Media Screen 375px - End
 ================================================== */
+ .green-bold:hover{
+  background-color: var(--bs-primary);
+  color: white;
+ }
