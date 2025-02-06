@@ -168,7 +168,7 @@
 
       <!-- About Section - Start
         ================================================== -->
-      <section class="about_section section_space_lgs">
+      <section class="about_section ">
         <div class="container">
           <div class="row align-items-center justify-content-lg-between">
             <div class="col-lg-6 order-lg-last">
@@ -286,6 +286,25 @@
       <!-- Counter Section - End
         ================================================== -->
 
+        <style>
+          @media (max-width: 992px) {
+            .image_widget img {
+              max-height: 500px !important;
+            }
+          }
+        
+          @media (max-width: 768px) {
+            .image_widget img {
+              max-height: 400px !important;
+            }
+          }
+        
+          @media (max-width: 576px) {
+            .image_widget img {
+              max-height: 300px !important; 
+            }
+          }
+        </style>
       <!--  Ansiley About Section - Start
         ================================================== -->
       <section class="about_section section_space_lg">
@@ -293,7 +312,8 @@
           <div class="row align-items-center justify-content-lg-between">
             <div class="col-lg-6 ">
               <div class="image_widget">
-                <img width="655" height="720" style="height: 650px;object-fit: cover;"
+                <img class="img-fluid"
+                  style="width: 100%; height: auto; object-fit: cover; max-height: 650px;"
                   src="https://res.cloudinary.com/df2fe2yzk/image/upload/v1730197214/WhatsApp_Image_2024-10-28_at_19.59.21_7bf8b8d4_l5l5ie.webp"
                   alt="About Image - Mindwell – Psychotherapist Site Template">
                 <div class="image_shape bg_primary_light"></div>
